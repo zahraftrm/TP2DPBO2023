@@ -44,6 +44,29 @@ Pada kelas Mahasiswa terdapat method set (untuk menetapkan nilai) dan juga metho
 8. Method btnDeleteActonPerformed()       : jika tombol Delete dipencet, maka kita memanggil method deleteData() apabila user setuju menghapus data
 9. Method btnCancelActionPerformed()      : jika tombol Cancel dipencet, maka value form menjadi kosong
 
-## VIDEO PROGRAM
+## SCREENSHOTS PROGRAM
 
-https://user-images.githubusercontent.com/100985868/227790835-cf9d6806-3793-40f9-baaf-f4e0ebe13b8c.mp4
+1. Login
+<img src="https://github.com/zahraftrm/TP2DPBO2023/blob/main/Screenshots/1.%20Login.png" width=50% height=50%>
+2. Tampilan Halaman Utama
+<img src="https://github.com/zahraftrm/TP2DPBO2023/blob/main/Screenshots/2.%20Tampilan%20Halaman%20Utama.png" width=50% height=50%>
+3. Tampilan Edit Data
+<img src="https://github.com/zahraftrm/TP2DPBO2023/blob/main/Screenshots/3.%20Tampilan%20Edit%20Data.png" width=50% height=50%>
+4. Data Sudah Diedit
+<img src="https://github.com/zahraftrm/TP2DPBO2023/blob/main/Screenshots/4.%20Data%20Sudah%20Diedit.png" width=50% height=50%>
+5. Message Dialog Data Terupdate
+<img src="https://github.com/zahraftrm/TP2DPBO2023/blob/main/Screenshots/5.%20Message%20Dialog%20Data%20Terupdate.png" width=50% height=50%>
+6. Tampilan Halaman Utama Setelah Diupdate
+<img src="https://github.com/zahraftrm/TP2DPBO2023/blob/main/Screenshots/6.%20Tampilan%20Halaman%20Utama%20Setelah%20Diupdate.png" width=50% height=50%>
+7. Delete Data
+<img src="https://github.com/zahraftrm/TP2DPBO2023/blob/main/Screenshots/7.%20Delete%20Data.png" width=50% height=50%>
+8. Message Dialog Data Terhapus
+<img src="https://github.com/zahraftrm/TP2DPBO2023/blob/main/Screenshots/8.%20Message%20Dialog%20Data%20Terhapus.png" width=50% height=50%>
+9. Tampilan Halaman Utama Setelah Dihapus
+<img src="https://github.com/zahraftrm/TP2DPBO2023/blob/main/Screenshots/9.%20Tampilan%20Halaman%20Utama%20Setelah%20Dihapus.png" width=50% height=50%>
+10. Tambah Data
+<img src="https://github.com/zahraftrm/TP2DPBO2023/blob/main/Screenshots/10.%20Tambah%20Data.png" width=50% height=50%>
+11. Message Dialog Data Bertambah
+<img src="https://github.com/zahraftrm/TP2DPBO2023/blob/main/Screenshots/11.%20Message%20Dialog%20Data%20Bertambah.png" width=50% height=50%>
+12. Logout Balik Ke Tampilan Halaman Login
+<img src="https://github.com/zahraftrm/TP2DPBO2023/blob/main/Screenshots/12.%20Logout%20Balik%20Ke%20Tampilan%20Halaman%20Login.png" width=50% height=50%>
