@@ -4,23 +4,18 @@ Saya Zahra Fitria Maharani NIM 2102545 mengerjakan soal TP2 dalam mata kuliah De
 
 ## ALUR PROGRAM
 
-Terdapat beberapa fitur yang dapat digunakan:
+Dalam menjalankan program ini, bisa dilakukan sebagai berikut.
 
-1. Insert data
-- memasukkan value pada form dan memilih value pada comboBox, kemudian klik tombol Add
-- setelah memasukkan data, table akan terupdate dengan data yang baru, kemudian value pada form kosong dan comboBox kembali ke laki-laki
-2. Update data
-- klik list data mahasiswa pada table, kemudian ubah value form ataupun comboBox sesuai keinginan, kemudian klik tombol Update
-- setelah update data, table akan terupdate dengan data yang baru, kemudian value pada form kosong dan comboBox kembali ke laki-laki
-3. Delete data 
-- klik list data mahasiswa pada table, kemudian klik tombol Delete
-- terdapat opsi Yes or No saat menghapus data, ketika klik No, maka data tidak dihapus dan masih dalam keadaan memencet list data tersebut sehingga value pada form dan comboBox sesuai dengan data yang dipencet
-- ketika klik Yes, maka data terhapus, kemudian terupdate dengan data yang baru, kemudian value pada form kosong dan comboBox kembali ke laki-laki
-4. Cancel data
-- klik list data mahasiswa pada table, kemudian klik tombol Cancel
-- maka value pada form kosong dan comboBox kembali ke laki-laki
-- atau bisa juga ketika sudah mengisi semua data pada form dan comboBox, kemudian klik tombol Cancel
-- maka value pada form kosong dan comboBox kembali ke laki-laki
+1. Login. Untuk username adalah User dan password adalah 123.
+2. Setelah login, program akan masuk ke Halaman Utama yang menampilkan Card data. Di Halaman Utama, terdapat menu Lihat Data, Tambah Data, dan Logout.
+3. Jika memencet tombol Edit pada Card, maka akan menampilkan Halaman Edit Data. 
+4. Kita perbaharui datanya, kemudian klik tombol Update. Setelah terupdate, kita klik tombol Cancel agar menutup Halaman Edit Data dan kembali ke Halaman Utama.
+5. Lihat data yg diperbaharui pada Card dengan mengklik kembali tombol Lihat Data.
+6. Jika memencet tombol Hapus pada Card, maka akan menampilkan dialog message akankah menghapus. Jika iya, maka data pun terhapus.
+7. Lihat data yg diperbaharui pada Card dengan mengklik kembali tombol Lihat Data.
+8. Tambah data baru dengan klik tombol Tambah Data. Isi data baru kemudian klik tombol Tambah, maka data akan berhasil dimasukkan. Klik tombol Cancel untuk remove form.
+9. Lihat data yg diperbaharui pada Card dengan mengklik kembali tombol Lihat Data.
+10. Klik tombol Logout untuk keluar dari akun dan kembali ke Halaman Login
 
 ## DESAIN PROGRAM
 
